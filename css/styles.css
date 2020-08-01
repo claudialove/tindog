@@ -8,11 +8,18 @@ h1, h2, h3, h4, h5, h6 {
     font-weight: 700;   
 }
 
+.white-section {
+color: #212529;
+}
+
+.color-section {
+    color: white;
+}
+
 /* Title Section */
 
 #title {
     background-color:#ff4c68;
-    color: white;
 }
 
 .container-fluid {
@@ -107,8 +114,6 @@ h1, h2, h3, h4, h5, h6 {
 
 #testimonials {
     background-color: #ef8172;
-    color: white;
-
 }
 
 .testimonial-text {
@@ -153,12 +158,6 @@ h1, h2, h3, h4, h5, h6 {
     font-size: 2rem;
     line-height: 1.5;
 }
-
-
-p {
-    color: #8f8f8f;
-}
-
 
 /* CTA Section */
 #cta {
